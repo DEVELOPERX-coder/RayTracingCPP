@@ -20,12 +20,11 @@ This repository contains a **Ray Tracing Simulation** project written in C++ usi
    - Download and install [SDL3](https://libsdl.org/).
 
 2. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/DEVELOPERX-coder/RayTracingCPP.git
    cd RayTracingCPP
    ```
-
-````
 
 3. **Build the Project**:
    Compile the code using a C++ compiler such as `g++`:
@@ -67,4 +66,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Thanks to [SDL](https://libsdl.org/) for their graphics library.
 - Inspired by basic ray tracing techniques in graphics programming.
-````
+
+```
+
+```

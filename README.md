@@ -66,7 +66,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Thanks to [SDL](https://libsdl.org/) for their graphics library.
 - Inspired by basic ray tracing techniques in graphics programming.
-
-```
-
-```
